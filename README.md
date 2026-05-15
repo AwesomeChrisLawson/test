@@ -5,6 +5,12 @@
   <title>Pistopher Lawbum — Portfolio</title>
   <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=DM+Mono:wght@300;400&display=swap" rel="stylesheet"/>
   <style>
+    .my-5 {
+    margin-top: 0 !important;
+}
+ .markdown-body h1 {
+    display: none;
+}
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
  
     :root {
